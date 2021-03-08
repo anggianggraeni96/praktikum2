@@ -1,0 +1,40 @@
+body{
+    background-image: url(pict/me.jpg);
+    margin-top: 1cm; margin-bottom: 1cm;  margin-left: 1cm; margin-right: 1cm;
+}
+
+nav{position: sticky; top: 0px; right: 0px; left: 0px;}
+a{font-size: 15pt; font-family: times; padding: 15px 10px;}
+ul{padding: 15px; position: middle;}
+li{display: inline;}
+li a{background: black; color: white;}
+li a:hover{background: cornflowerblue; color: navajowhite;}
+
+.tab{
+    background-image: url(pict/jadw.jpg);
+    background-size: cover; text-align: center;}
+
+.tab th{
+    color: blue; background-color: royalblue; border-width: 1px; 
+    border-style: solid; border-color: black; font-size: 20pt; font-family: Times;}
+
+.tab td{
+    color: rgb(1, 1, 50); background-color: rgb(200, 255, 250); border-width: 1px;
+    border-style: solid; border-color: blue; font-size: 15pt; font-family: Times;
+    text-align: center;}
+
+p{ padding: 20px; background-color: royalblue; 
+    text-align: justify; font-size: 15pt; font-family: Lucida Sans; }
+
+img{width: 325px; height: 500px; padding: 10px;}
+
+.aan{
+    text-align: center;
+    border: 2px; padding: 2px; border-style: ridge; background-color: cornflowerblue;
+}
+
+
+
+
+
+
